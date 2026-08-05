@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+git commit -m "Add requirements"
+git push origin main
